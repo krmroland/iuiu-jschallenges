@@ -19,6 +19,14 @@
   },
   "homepage": "https://github.com/krmroland/iuiu-jschallenges#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "eslint": "^5.6.0",
+    "jest": "^23.6.0",
+    "jest-runner-eslint": "^0.6.0"
+  },
+  "dependencies": {},
+
+  "jest": {
+    "runner": "jest-runner-eslint",
+    "testMatch": ["<rootDir>/questions/**/*.js"]
   }
 }

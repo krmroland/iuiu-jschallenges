@@ -1,0 +1,20 @@
+{
+  "name": "iuiu-challenges",
+  "version": "1.0.0",
+  "description": "This is a personal challenge that aims at attempting challenges in this repo  https://github.com/hadijahkyampeire/IUIU-Js-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krmroland/iuiu-jschallenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krmroland/iuiu-jschallenges/issues"
+  },
+  "homepage": "https://github.com/krmroland/iuiu-jschallenges#readme"
+}

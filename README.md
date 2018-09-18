@@ -1,7 +1,8 @@
-# IUIU-Js-challenge
-This is a personal challenge that aims at attempting challenges in this repo  https://github.com/hadijahkyampeire/IUIU-Js-challenge 
+# Java script basic challenges
+This repository aims at attempting challenges in  [repo](https://github.com/hadijahkyampeire/IUIU-Js-challenge)  using  [ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
 
-## Questions( Mirrored from  https://github.com/hadijahkyampeire/IUIU-Js-challenge)
+## Questions  mirrored from [here](https://github.com/hadijahkyampeire/IUIU-Js-challenge)
+
 1. Write a program to display the current day and time in the following format. Sample Output : Today is : Tuesday. 
     Current time is : 10 PM : 30 : 38.
 

@@ -5,7 +5,8 @@
     "This is a personal challenge that aims at attempting challenges in this repo  https://github.com/hadijahkyampeire/IUIU-Js-challenge",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint questions --fix"
   },
   "repository": {
     "type": "git",
@@ -20,13 +21,7 @@
   "homepage": "https://github.com/krmroland/iuiu-jschallenges#readme",
   "devDependencies": {
     "eslint": "^5.6.0",
-    "jest": "^23.6.0",
-    "jest-runner-eslint": "^0.6.0"
+    "jest": "^23.6.0"
   },
-  "dependencies": {},
-
-  "jest": {
-    "runner": "jest-runner-eslint",
-    "testMatch": ["<rootDir>/questions/**/*.js"]
-  }
+  "dependencies": {}
 }

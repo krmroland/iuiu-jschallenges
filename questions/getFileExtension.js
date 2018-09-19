@@ -4,8 +4,8 @@
  * @return {String|null}
  */
 const getFileExtension = fileName => {
-    match = fileName.match(/\.(\w+$)/);
-    return match ? match[1] : null;
+    const matches = fileName.match(/\.(\w+$)/);
+    return matches ? matches[1] : null;
 };
 
 module.exports = getFileExtension;

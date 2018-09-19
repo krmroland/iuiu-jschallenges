@@ -5,7 +5,7 @@
  */
 const reverseString = str => {
     if (!str) {
-        new TypeError("Input string is required");
+        throw new TypeError("Input string is required");
     }
     return [...str].reverse().join("");
 };

@@ -1,4 +1,5 @@
 /**
+ * Challenge 3
  * Generates a Fibonacci sequence up to a given number
  * @param  {Number} maximum
  * @return {Array}

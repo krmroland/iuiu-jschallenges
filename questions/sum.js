@@ -1,4 +1,5 @@
 /**
+ * Challenge 4
  * Sums an infinite sequence
  * @param  {...[Number]} numbers
  * @return {Number}

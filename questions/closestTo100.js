@@ -1,4 +1,5 @@
 /**
+ * Challenge 8
  * Determines the first number that is closer to 100 on the number line
  * @param  {Number} a
  * @param  {Number} b

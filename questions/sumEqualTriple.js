@@ -1,4 +1,5 @@
 /**
+ * Challenge 5
  * Sums two given numbers and triples the sum if the numbers are equal
  * @param  {Number} a
  * @param  {Number} b

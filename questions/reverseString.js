@@ -1,4 +1,5 @@
 /**
+ * Challenge 2
  *  Reverses a given word
  * @param  {String} str
  * @return {String}

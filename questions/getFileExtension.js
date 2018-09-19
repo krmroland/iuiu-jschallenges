@@ -1,4 +1,5 @@
 /**
+ * Challenge 6
  * Gets the extension of a given fileName
  * @param  {String} fileName
  * @return {String|null}

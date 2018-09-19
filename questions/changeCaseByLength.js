@@ -1,5 +1,5 @@
 /**
- * Question 10
+ * Challenge 10
  * Converts a string
  * @param  {String} str
  * @return {String} str

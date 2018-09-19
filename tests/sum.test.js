@@ -7,5 +7,5 @@ test("sum adds an infinite list of numbers", () => {
 
 test("sum omits non numbers while adding", () => {
     expect(sum(1, 2, 3, "a")).toBe(6);
-    expect(sum(1, 2, 3, "A non number", 4)).toBe(11);
+    expect(sum(1, 2, 3, "A non number", 4)).toBe(10);
 });

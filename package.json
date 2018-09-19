@@ -1,11 +1,11 @@
 {
   "name": "iuiu-challenges",
   "version": "1.0.0",
-  "description":
-    "This is a personal challenge that aims at attempting challenges in this repo  https://github.com/hadijahkyampeire/IUIU-Js-challenge",
+  "description": "This is a personal challenge that aims at attempting challenges in this repo  https://github.com/hadijahkyampeire/IUIU-Js-challenge",
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test-with-coverage": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "lint": "eslint questions --fix"
   },
   "repository": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/krmroland/iuiu-jschallenges#readme",
   "devDependencies": {
+    "coveralls": "^3.0.2",
     "eslint": "^5.6.0",
     "jest": "^23.6.0"
   },

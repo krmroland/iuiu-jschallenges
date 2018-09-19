@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/krmroland/iuiu-jschallenges.svg?branch=master)](https://travis-ci.org/krmroland/iuiu-jschallenges)
+[![Coverage Status](https://coveralls.io/repos/github/krmroland/iuiu-jschallenges/badge.svg?branch=master)](https://coveralls.io/github/krmroland/iuiu-jschallenges?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/027f2c88ae3f49a7b875a04dadfcb575)](https://www.codacy.com/app/krmroland/iuiu-jschallenges?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krmroland/iuiu-jschallenges&amp;utm_campaign=Badge_Grade)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fea4cee9880b3d6901d5/maintainability)](https://codeclimate.com/github/krmroland/iuiu-jschallenges/maintainability)
+[![BCH compliance](https://bettercodehub.com/edge/badge/krmroland/iuiu-jschallenges?branch=master)](https://bettercodehub.com/)
+
 # Java script basic challenges
 This repository aims at attempting challenges in  [repo](https://github.com/hadijahkyampeire/IUIU-Js-challenge)  using  [ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
 

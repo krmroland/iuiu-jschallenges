@@ -5,7 +5,45 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/krmroland/iuiu-jschallenges?branch=master)](https://bettercodehub.com/)
 
 # Java script basic challenges
+
 This repository aims at attempting challenges in  [repo](https://github.com/hadijahkyampeire/IUIU-Js-challenge)  using  [ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
+
+### Running tests
+ - Ensure you have the following installed on you machine
+  - [Git](https://git-scm.com/) A version control system
+  - [Node js](https://nodejs.org/en/), An asynchronous event driven JavaScript runtime
+  - [Yarn](https://yarnpkg.com/en/) or [npm](https://www.npmjs.com/), A dependancy manager for nodejs applications
+ - Clone this repo to your machine by running
+ ```bash
+  git clone https://github.com/krmroland/iuiu-jschallenges.git
+```
+ - Install dependencies by running
+ ```bash
+  yarn # if you have yarn installed
+  npm # if you have npm installed
+ ```
+
+### Running tests 
+Refer to the [Jest docs](https://jestjs.io/) for more reading
+
+```bash
+# using yarn
+yarn test 
+# with coverage
+yarn test --coverage
+
+# using npm
+npm run test
+# with coverage
+npm run test --coverage
+```
+### Credits
+- [Kyampeire  Hadijah](https://github.com/hadijahkyampeire) for initiating the challenge
+
+### Related solutions
+- https://github.com/hadijahkyampeire/IUIU-Js-challenge
+
+
 
 ## Questions  mirrored from [here](https://github.com/hadijahkyampeire/IUIU-Js-challenge)
 
